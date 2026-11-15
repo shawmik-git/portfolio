@@ -16,6 +16,5 @@ Personal portfolio website of a Full Stack Web Developer. Built with plain HTML,
 - Movie Explorer: https://movie-explorer-three-iota.vercel.app
 - DevStack: https://assignment-5-orpin.vercel.app (code: https://github.com/shawmik-git/assignment-5)
 
-## Run locally
-Open `index.html` in a browser.
+
 
