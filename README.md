@@ -24,8 +24,7 @@ Personal portfolio website of a Full Stack Web Developer, built with plain HTML,
 - WhatsApp: +880 1968-911066
 - GitHub: https://github.com/shawmik-git
 
-## Run locally
-Open `index.html` in a browser.
+
 
 ## Deploy
 Import this repository on Vercel (Framework Preset: Other). No build command or output directory is needed.
